@@ -1,5 +1,3 @@
-## Railtown Website
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). However, this project demonstrates both the use of TypeScript, and styled-components.
 
 Use it as a template for your own projects. Just remember to change the `name` field in `package.json` to one that fits your project's needs.
